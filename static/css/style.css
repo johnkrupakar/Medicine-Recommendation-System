@@ -1,0 +1,33 @@
+body {
+    background-color: #000;
+    color: #fff;
+}
+.container {
+    margin-top: 50px;
+}
+h1 {
+    text-align: center;
+}
+.form-control,
+.btn-primary,
+.list-group-item {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+}
+.btn-success {
+    background-color: #28a745;
+}
+.select2-container--default .select2-selection--single {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #444;
+}
+.select2-container--default .select2-results__option {
+    background-color: #333;
+    color: #fff;
+}
+.select2-container--default .select2-results__option--highlighted {
+    background-color: #444;
+    color: #fff;
+}
